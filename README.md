@@ -18,5 +18,5 @@ native Quarto constructs and embedded images).
 
 ## Companion decks
 
-- Session 1 — Materials & Methods
+- Session 1 — Materials & Methods https://github.com/drarunmitra/MRU_Workshop_Methods
 - Session 2 — Results: https://github.com/drarunmitra/MRU_Workshop_Results
